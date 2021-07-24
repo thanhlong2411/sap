@@ -1,0 +1,203 @@
+@media only screen  and (max-width:1220px){
+    
+    .header__navbar_menu{
+        display: none;
+    }
+    .header__navbar-list1{
+        display: none;
+    }
+    .Banner_title{
+        top: 220px;
+    }
+    .Banner_title-1{
+        font-size: 40px;
+    }
+    .Banner_title-text{
+        font-size: 15px;
+    }
+    .Banner_title-text1{
+        font-size: 15px;
+    }
+    .Banner-button{
+        margin-bottom: 20px;
+    }
+    .nav__bars{
+    margin: 35px -50px 0 0;
+    display: block;
+    }
+    
+}
+@media only screen  and (max-width:1024px){
+    .Banner_title-1{
+        font-size: 33px;
+    }
+    .Banner_title-text{
+        font-size: 13px;
+    }
+    .Banner_title-text1{
+        font-size: 13px;
+    }
+    .Banner-button{
+        margin-bottom: 20px;
+    }
+        .header__navbar-logo1{
+        margin-left: -55px;
+    }
+    .what_you_get_layout{
+        display: block;
+    }
+    .what_you_get_layout p{
+        padding: 0 300px 0 300px;
+    }
+}
+
+@media only screen  and (max-width: 850px){
+
+    .Banner_title{
+        top: 200px;
+    }
+    .Banner_title-1{
+        font-size: 27px;
+    }
+    .Banner_title-text{
+        font-size: 11px;
+    }
+    .Banner_title-text1{
+        font-size: 11px;
+    }
+    .Banner-button {
+        font-size: 11px;
+    }
+    .what_you_get_layout{
+        display: block;
+    }
+    .what_you_get_layout p{
+        padding: 0 200px 0 200px;
+    }
+   
+}
+@media only screen  and (max-width: 685px){
+    .Banner_title{
+        top: 180px;
+    }
+    .Banner_title-1{
+        font-size: 20px;
+    }
+    .Banner_title-text{
+        font-size: 8px;
+    }
+    .Banner_title-text1{
+        font-size: 8px;
+    }
+    .Banner-button {
+        font-size: 7px;
+    }
+    .Banner-button i{
+        padding: 2px;
+    }
+    .header__navbar-logo1{
+        margin-left: -55px;
+    }
+    .header__navbar_menu_mobile{
+        width: 220px;
+    }
+    .header__navbar-item_mobile{
+        font-size: 15px;
+    }
+    .navbar_menu_mobile_close{
+        width: 15px;
+        height: 15px;
+    }
+    .what_you_get_layout{
+        display: block;
+    }
+    .what_you_get_layout p{
+        padding: 0 130px 0 130px;
+    }
+}
+@media only screen  and (max-width: 500px){
+    .Banner_title{
+        top: 170px;
+        line-height: 10px;
+    }
+    .Banner_title-1{
+        font-size: 15px;
+    }
+    .Banner_title-text{
+        font-size: 6px;
+    }
+    .Banner_title-text1{
+        font-size: 6px;
+    }
+    .Banner-button {
+        font-size: 5px;
+    }
+    .Banner-button i{
+        padding: 2px;
+    }
+    .header__navbar-logo1{
+        margin-left: -55px;
+    }
+    .header__navbar_menu_mobile{
+        width: 160px;
+    }
+    .header__navbar-item_mobile{
+        font-size: 12px;
+        margin-left: -25px;
+    }
+    .navbar_menu_mobile_close{
+        width: 12px;
+        height: 12px;
+    }
+    .what_you_get_layout{
+        display: block;
+    }
+    .what_you_get_layout p{
+        padding: 0 100px 0 100px;
+    }
+}
+@media only screen  and (max-width: 412px){
+    .Banner_title{
+        top: 170px;
+        line-height: 10px;
+    }
+    .Banner_title-1{
+        font-size: 13px;
+    }
+    .Banner_title-text{
+        font-size: 5px;
+    }
+    .Banner_title-text1{
+        font-size: 5px;
+    }
+    .Banner-button {
+        font-size: 4px;
+        padding-left:5px ;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        top:2px;
+    }
+    .Banner-button i{
+        padding: 1px;
+    }
+    .header__navbar-logo1{
+        margin-left: -85px;
+    }
+    .header__navbar_menu_mobile{
+        width: 140px;
+    }
+    .header__navbar-item_mobile{
+        font-size: 10px;
+        margin-left: -25px;
+    }
+    .navbar_menu_mobile_close{
+        width: 10px;
+        height: 10px;
+    }
+    .what_you_get_layout{
+        display: block;
+    }
+    .what_you_get_layout p{
+        padding: 0 70px 0 70px;
+    }
+}
